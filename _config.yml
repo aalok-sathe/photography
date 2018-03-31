@@ -6,14 +6,14 @@ image_thumbs_loc: "/images/thumbs"
 
 # UI configs
 title: "Photography by Aalok Sathe"
-subtitle: "coming soon"
+subtitle: "Photography by Aalok"
 author: "Aalok Sathe"
 header:
  title: "Photography"
  subtitle: "by Aalok Sathe"
 footer:
  name: "Hey there. My name is Aalok."
- bio: "I am a student at the University of Richmond. I click pictures in my free time and while traveling. (C) All pictures here are clicked by me. For permissions, please reach out and ask! For more information, visit my <a href=\"https://aalok-sathe.github.io\">webpage</a>"
+ bio: "I am a student at the University of Richmond. I click pictures in my free time and while traveling. (C) All pictures here are clicked by me. For permissions, please reach out and ask! For more information, visit my <a href=\"https://aalok-sathe.github.io\">webpage.</a>"
  github: "Want a website like this for yourself for free? Just <a href=\"https://github.com/ramswaroop/photography\">fork it on github</a> ;)"
 web_design: "AJ"
 social_urls:
