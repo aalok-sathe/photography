@@ -12,11 +12,11 @@ header:
  title: "Photography"
  subtitle: "by Aalok Sathe"
 footer:
- name: "Hey there, my name is Aalok"
- bio: "I am a student interested math, CS, linguistics, philosophy, the brain, and complex systems (in no particular order). I am a FOSS enthusiast."
+ name: "Hey there. My name is Aalok."
+ bio: "I am a student at the University of Richmond. I click pictures in my free time and while traveling."
  github: "Want a website like this for yourself for free? Just <a href=\"https://github.com/ramswaroop/photography\">fork it on github</a> ;)"
 web_design: "AJ"
 social_urls:
   twitter: "https://www.twitter.com/aalok_sathe"
   instagram: "https://www.instagram.com/aalok__"
-  github: "https://www.github.com/aalok-sathe"
+  github: "https://aalok-sathe.github.io"
