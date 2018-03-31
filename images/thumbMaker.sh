@@ -1,5 +1,6 @@
 for i in *.jpg *.JPG *.jpeg; do
     if [ "$i" -nt "./thumbs/$i" ]; then
-        convert "$i" -thumbnail 100 "./thumbs/$i";
+        echo "$i"
+        convert "$i" -thumbnail 500 "./thumbs/$i";
     fi
 done;
